@@ -38,20 +38,25 @@ Here you will find:
 - Notes (PDFs and text files)  
 - Topic-wise practice programs  
 
+## 📂 Folder Structure
+
+```
 DSA-Learning/
 │
-├── DSA code/ # Topic-wise C programs
-│ ├── Arrays/
-│ ├── Linked List/
-│ ├── Stack/
-│ ├── Queue/
-│ ├── Tree/
-│ ├── Graph/
-│ └── Sorting & Searching/
+├── DSA code/
+│   ├── Arrays/
+│   ├── Linked List/
+│   ├── Stack/
+│   ├── Queue/
+│   ├── Tree/
+│   ├── Graph/
+│   └── Sorting & Searching/
 │
-├── Pattern Problem/ # Pattern practice programs
-├── Notes/ # PDFs and study notes
-├── README.md # Repository overview
+├── Pattern Problem/
+├── Notes/
+├── README.md
+
+```
 
 Happy Coding! 💙  
 — Anurag Verma
